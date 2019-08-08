@@ -3,7 +3,7 @@
         <Row class-name="r_1"><span>Welcome to Nayo Admin</span></Row>
         <Row class-name="r_2">Supported by <a href="https://vuejs.org/index.html" target="_blank" class="r2_a_1"></a> and <a href="https://www.iviewui.com" target="_blank" class="r2_a_2"></a></Row>
         <Row class-name="r_3"><a href="" target="_blank">Document</a></Row>
-        <Row class-name="r_4">Nayo Admin Framework: <a href="" target="_blank">nayo-admin-core.js</a></Row>
+        <Row class-name="r_4">Nayo Admin Framework: <a href="https://github.com/nayo-project/nayo-admin-core" target="_blank">nayo-admin-core.js</a></Row>
     </div>
 </template>
 
