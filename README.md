@@ -1,4 +1,4 @@
-![nayo](https://raw.githubusercontent.com/Terencesun/nayo-admin/image/logo.png)
+![nayo](https://raw.githubusercontent.com/nayo-project/nayo-admin-simple/master/logo.jpg)
 
 ## 后台管理系统前端解决方案
 
